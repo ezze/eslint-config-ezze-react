@@ -22,9 +22,11 @@
     "url": "https://github.com/ezze/eslint-config-ezze-react/issues"
   },
   "homepage": "https://github.com/ezze/eslint-config-ezze-react#readme",
+  "devDependencies": {
+    "eslint-config-ezze": "^0.0.2"
+  },
   "peerDependencies": {
     "eslint": "^3.0.0",
-    "eslint-plugin-react": "^6.7.1",
-    "eslint-config-ezze": "^0.0.2"
+    "eslint-plugin-react": "^6.7.1"
   }
 }
