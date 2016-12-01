@@ -13,7 +13,8 @@
   "keywords": [
     "eslint",
     "eslintconfig",
-    "react"
+    "react",
+    "jsx"
   ],
   "author": "Dmitriy Pushkov <ezze@ezze.org>",
   "license": "MIT",
