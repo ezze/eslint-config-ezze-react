@@ -23,6 +23,7 @@
   "homepage": "https://github.com/ezze/eslint-config-ezze-react#readme",
   "peerDependencies": {
     "eslint": "^3.0.0",
+    "eslint-plugin-react": "^6.7.1",
     "eslint-config-ezze": "^0.0.1"
   }
 }
