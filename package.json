@@ -1,0 +1,28 @@
+{
+  "name": "eslint-config-ezze-react",
+  "version": "0.0.1",
+  "description": "ESLint configuration with React support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezze/eslint-config-ezze-react.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "react"
+  ],
+  "author": "Dmitriy Pushkov <ezze@ezze.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ezze/eslint-config-ezze-react/issues"
+  },
+  "homepage": "https://github.com/ezze/eslint-config-ezze-react#readme",
+  "peerDependencies": {
+    "eslint": "^3.0.0",
+    "eslint-config-ezze": "^0.0.1"
+  }
+}
