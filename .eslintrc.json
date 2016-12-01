@@ -1,5 +1,5 @@
 {
-  "extens": "ezze",
+  "extends": "ezze",
   "plugins": [
     "react"
   ],
