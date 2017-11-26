@@ -1,5 +1,7 @@
 # eslint-config-ezze-react
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ezze/eslint-config-ezze-react.svg)](https://greenkeeper.io/)
+
 Configuration for [ESLint](http://eslint.org/) with [React](https://facebook.github.io/react/) and
 [JSX](https://facebook.github.io/react/docs/jsx-in-depth.html) support.
 
