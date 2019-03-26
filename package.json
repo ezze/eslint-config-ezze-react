@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ezze-react",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "description": "ESLint configuration with React and JSX support",
   "main": "index.js",
   "scripts": {
