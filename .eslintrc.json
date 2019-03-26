@@ -1,5 +1,8 @@
 {
   "extends": "ezze",
+  "env": {
+    "browser": true
+  },
   "plugins": [
     "react"
   ],
