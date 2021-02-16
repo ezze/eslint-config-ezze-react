@@ -5,16 +5,18 @@ Configuration for [ESLint](http://eslint.org/) with [React](https://facebook.git
 
 ## Installation
 
-    npm install eslint eslint-plugin-react eslint-config-ezze-react --save-dev
+    npm install eslint eslint-plugin-react eslint-config-ezze-react @babel/eslint-parser --save-dev
     
 ## Usage
 
 Create `.eslintrc.json` file in your project and place the following there:
 
-    {
-        "extends": "ezze-react"
-    }
-    
+```json
+{
+  "extends": "ezze-react"
+}
+```
+
 See [Shareable configs](http://eslint.org/docs/developer-guide/shareable-configs) for more details.    
 
 ## Contribution

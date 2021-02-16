@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ezze-react",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "description": "ESLint configuration with React and JSX support",
   "main": "index.js",
   "scripts": {
@@ -23,10 +23,10 @@
   },
   "homepage": "https://github.com/ezze/eslint-config-ezze-react#readme",
   "dependencies": {
-    "eslint-config-ezze": "^0.9.0"
+    "eslint-config-ezze": "^0.10.0"
   },
   "peerDependencies": {
-    "eslint": "^7.0.0",
-    "eslint-plugin-react": "^7.20.0"
+    "eslint": "^7.20.0",
+    "eslint-plugin-react": "^7.22.0"
   }
 }
